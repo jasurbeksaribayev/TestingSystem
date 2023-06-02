@@ -1,0 +1,20 @@
+2023-05-24 15:00:59.001 +00:00 [Error] [AspnetApp.Middlewares.AspnetAppExceptionMiddleware] [] AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+QuizRezult -> List`1
+AspnetApp.Domain.Entities.QuizRezult -> System.Collections.Generic.List`1[[AspnetApp.Service.DTOs.QuizResults.QuizResultForViewDTO, AspnetApp.Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+   at lambda_method277(Closure , Object , List`1 , ResolutionContext )
+   at AspnetApp.Service.Services.QuizResults.QuizResultService.GetAllInExcel(Int32 quizId) in C:\Users\User\source\repos\AspnetApp\AspnetApp.Service\Services\QuizResults\QuizResultService.cs:line 105
+   at AspnetApp.Controllers.QuizResultController.GetAllInExcel(Int32 quizId) in C:\Users\User\source\repos\AspnetApp\AspnetApp\Controllers\QuizResultController.cs:line 43
+   at lambda_method213(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at AspnetApp.Middlewares.AspnetAppExceptionMiddleware.Invoke(HttpContext context) in C:\Users\User\source\repos\AspnetApp\AspnetApp\Middlewares\AspnetAppExceptionMiddleware.cs:line 20

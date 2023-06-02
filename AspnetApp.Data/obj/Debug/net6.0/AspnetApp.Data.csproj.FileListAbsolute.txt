@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\bin\Debug\net6.0\AspnetApp.Data.deps.json
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\bin\Debug\net6.0\AspnetApp.Data.dll
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\bin\Debug\net6.0\AspnetApp.Data.pdb
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\bin\Debug\net6.0\AspnetApp.Domain.dll
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\bin\Debug\net6.0\AspnetApp.Domain.pdb
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\obj\Debug\net6.0\AspnetApp.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\obj\Debug\net6.0\AspnetApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\obj\Debug\net6.0\AspnetApp.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\obj\Debug\net6.0\AspnetApp.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\obj\Debug\net6.0\AspnetApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\obj\Debug\net6.0\AspnetApp.Data.csproj.CopyComplete
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\obj\Debug\net6.0\AspnetApp.Data.dll
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\obj\Debug\net6.0\refint\AspnetApp.Data.dll
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\obj\Debug\net6.0\AspnetApp.Data.pdb
+C:\Users\User\source\repos\AspnetApp\AspnetApp.Data\obj\Debug\net6.0\ref\AspnetApp.Data.dll

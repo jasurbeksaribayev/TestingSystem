@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\AspnetApp\\AspnetApp\\wwwroot\\images\\36f61e28fe174d17b18a5fa73dd9005b-bigLav.jpg",
+      "PackagePath": "staticwebassets\\images\\36f61e28fe174d17b18a5fa73dd9005b-bigLav.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\AspnetApp\\AspnetApp\\wwwroot\\images\\63245293acce411483a2b8d70521f69a-.jpg",
+      "PackagePath": "staticwebassets\\images\\63245293acce411483a2b8d70521f69a-.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\AspnetApp\\AspnetApp\\wwwroot\\images\\6bcb644d9e71415cb23bf12ceaf2e27b-.jpg",
+      "PackagePath": "staticwebassets\\images\\6bcb644d9e71415cb23bf12ceaf2e27b-.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\AspnetApp\\AspnetApp\\wwwroot\\images\\8deb7fd93faa4b84b1c4f35fbc297fe3-.jpeg",
+      "PackagePath": "staticwebassets\\images\\8deb7fd93faa4b84b1c4f35fbc297fe3-.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\AspnetApp\\AspnetApp\\wwwroot\\images\\9179d9c79e1a43afb84a7adf852dc337-fanta.jpg",
+      "PackagePath": "staticwebassets\\images\\9179d9c79e1a43afb84a7adf852dc337-fanta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\AspnetApp\\AspnetApp\\wwwroot\\images\\9512940c8c534ac5b9e4ea88eec1dc90-choyQ.jpg",
+      "PackagePath": "staticwebassets\\images\\9512940c8c534ac5b9e4ea88eec1dc90-choyQ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\AspnetApp\\AspnetApp\\wwwroot\\images\\a4972f990c664cc4bb338f9c4186da29-bigLav.jpg",
+      "PackagePath": "staticwebassets\\images\\a4972f990c664cc4bb338f9c4186da29-bigLav.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\source\\repos\\AspnetApp\\AspnetApp\\wwwroot\\images\\ebec97cb74904940bb30297446d18a0e-bigburger.jpg",
+      "PackagePath": "staticwebassets\\images\\ebec97cb74904940bb30297446d18a0e-bigburger.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AspnetApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AspnetApp.props",
+      "PackagePath": "build\\AspnetApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AspnetApp.props",
+      "PackagePath": "buildMultiTargeting\\AspnetApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AspnetApp.props",
+      "PackagePath": "buildTransitive\\AspnetApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

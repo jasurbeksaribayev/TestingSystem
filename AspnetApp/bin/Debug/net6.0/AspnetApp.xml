@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AspnetApp</name>
+    </assembly>
+    <members>
+        <member name="M:AspnetApp.Controllers.AuthController.Login(AspnetApp.Service.DTOs.Users.UserForLoginDTO)">
+            <summary>
+            Authorization
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AspnetApp.Controllers.CourseController.CreateAsync(AspnetApp.Service.DTOs.Courses.CourseForCreationDTO)">
+            <summary>
+            OOO uxshadi
+            </summary>
+            <param name="courseForCreationDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="T:AspnetApp.Migrations.InitialMigration">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.InitialMigration.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.InitialMigration.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.InitialMigration.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AspnetApp.Migrations.InitialMigration1">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.InitialMigration1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.InitialMigration1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.InitialMigration1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AspnetApp.Migrations.InitialMigration0">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.InitialMigration0.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.InitialMigration0.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.InitialMigration0.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AspnetApp.Migrations.AddRelationMigration0">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.AddRelationMigration0.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.AddRelationMigration0.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.AddRelationMigration0.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AspnetApp.Migrations.QuestionstoQuestion">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionstoQuestion.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionstoQuestion.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionstoQuestion.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AspnetApp.Migrations.QuestionstoQuestion1">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionstoQuestion1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionstoQuestion1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionstoQuestion1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AspnetApp.Migrations.QuestionstoQuestion12">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionstoQuestion12.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionstoQuestion12.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionstoQuestion12.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AspnetApp.Migrations.QuestionstoQuestion123">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionstoQuestion123.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionstoQuestion123.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionstoQuestion123.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AspnetApp.Migrations.QuestionAttachmentRelation">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionAttachmentRelation.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionAttachmentRelation.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionAttachmentRelation.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AspnetApp.Migrations.QuestionAttachmentRelation1">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionAttachmentRelation1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionAttachmentRelation1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.QuestionAttachmentRelation1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AspnetApp.Migrations.AddSolvedQuestionTable1">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.AddSolvedQuestionTable1.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.AddSolvedQuestionTable1.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.AddSolvedQuestionTable1.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="T:AspnetApp.Migrations.super">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.super.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.super.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:AspnetApp.Migrations.super.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
